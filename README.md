@@ -1,5 +1,7 @@
 # WizFit Challenge API Integration
 
+[Live Project]([https://your-live-link.com](https://wizschool-tech-initiator.netlify.app/))
+
 ## Overview
 
 This project integrates the **WizFit Challenge API** to display a list of schools participating in the campaign. The search functionality allows users to filter results dynamically with **debouncing** to optimize performance and reduce unnecessary API calls.
