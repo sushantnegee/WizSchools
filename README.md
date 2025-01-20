@@ -1,6 +1,6 @@
 # WizFit Challenge API Integration
 
-[Live Project]([https://your-live-link.com](https://wizschool-tech-initiator.netlify.app/))
+[Live Project]([https://your-live-link.com](https://wizschool-tech-initiator.netlify.app/)
 
 ## Overview
 
